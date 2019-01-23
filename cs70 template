@@ -6,8 +6,8 @@
 \usepackage[]{enumerate} %this help a lot with enumeration list
 \usepackage[]{circuitikz} %this draws circuits and logic gates
 
-\title{HW 1} %here's the hw ID
-\author{Your Name \ Account:\ Your CS70 account}
+\title{HW 0} %here's the hw ID
+\author{Nathan Horowitz \ SSID: 3033704626 \ nhorowitz@berkeley.edu}
 \date{mmm/ddd/yyy}
 
 \begin{document}
